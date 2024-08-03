@@ -11,9 +11,9 @@
       "logo": "SvgoVueColor"
     },
     {
-      "name": "Nest",
-      "link": "https://nestjs.com/",
-      "logo": "SvgoNestColor"
+      "name": "Laravel",
+      "link": "https://laravel.com/",
+      "logo": "SvgoLaravelColor"
     },
     {
       "name": "TailwindCSS",
@@ -31,64 +31,34 @@
       "logo": "SvgoVercel"
     },
     {
-      "name": "Linear",
-      "link": "https://linear.app/",
-      "logo": "SvgoLinearColor"
+      "name": "Adonis JS",
+      "link": "https://adonisjs.com/",
+      "logo": "SvgoAdonisjsColor"
     },
     {
-      "name": "Arc",
-      "link": "https://arc.net/",
-      "logo": "SvgoArcColor"
+      "name": "DOT NET",
+      "link": "https://dotnet.microsoft.com/en-us/",
+      "logo": "SvgoDotnetColor"
     },
     {
-      "name": "Raycast",
-      "link": "https://raycast.com/",
-      "logo": "SvgoRaycastColor"
+      "name": "Typescript",
+      "link": "https://www.typescriptlang.org/",
+      "logo": "SvgoTypescriptColor"
     },
     {
-      "name": "Notion",
-      "link": "https://www.notion.so/",
-      "logo": "SvgoNotionColor"
+      "name": "GO Lang",
+      "link": "https://go.dev/",
+      "logo": "SvgoGolangColor"
     },
     {
-      "name": "Cron",
-      "link": "https://calendar.cron.com/",
-      "logo": "SvgoCronColor"
+      "name": "PHP",
+      "link": "https://www.php.net/",
+      "logo": "SvgoPhpColor"
     },
     {
-      "name": "Spark",
-      "link": "https://sparkmailapp.com/",
-      "logo": "SvgoSparkColor"
-    },
-    {
-      "name": "1Password",
-      "link": "https://1password.com/",
-      "logo": "SvgoOnepasswordColor"
-    },
-    {
-      "name": "Fig",
-      "link": "https://fig.io/",
-      "logo": "SvgoFigColor"
-    },
-    {
-      "name": "Figma",
-      "link": "https://www.figma.com/",
-      "logo": "SvgoFigmaColor"
-    },
-    {
-      "name": "Photoshop",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "logo": "SvgoPhotoshopColor"
-    },
-    {
-      "name": "Illustrator",
-      "link": "https://www.adobe.com/products/illustrator.html",
-      "logo": "SvgoIllustratorColor"
-    },
-    {
-      "name": "Lightroom",
-      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
-      "logo": "SvgoLightroomColor"
+      "name": "Git",
+      "link": "https://git-scm.com/",
+      "logo": "SvgoGitColor"
     }
   ]
 }
